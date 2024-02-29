@@ -1,16 +1,17 @@
-### Hi there 👋
+- 🔭 I am currently in a career transition to test analyst.
+  
+- 🌱 I'm currently learning about systems analysis and development.
+  
+- 👯 I seek to collaborate in teamwork, adaptability, leadership, ethics and understanding.
+  
+- 🤔 I'm looking for help with my first opportunity in the area of ​​information technology.
+  
+- 💬 Ask me about how to prevent bugs in a system.
+  
+- 📫 How to contact me:
+  
+Mobile: +5588988840322
+email: lw.saturnino@gmail.com
+linkedin: https://www.linkedin.com/in/lw-saturnino/
 
-<!--
-**LucasSaturnino/LucasSaturnino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I also have a degree in construction technology.
