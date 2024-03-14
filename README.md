@@ -1,17 +1,17 @@
-- 🔭 I am currently in a career transition to test analyst.
+- 🔭 Atualmente estou em transição de carreira para analista de testes.
   
-- 🌱 I'm currently learning about systems analysis and development.
+- 🌱 Atualmente estou aprendendo sobre análise e desenvolvimento de sistemas.
   
-- 👯 I seek to collaborate in teamwork, adaptability, leadership, ethics and understanding.
+- 👯 Busco colaborar no trabalho em equipe, adaptabilidade, liderança, ética e compreensão.
   
-- 🤔 I'm looking for help with my first opportunity in the area of ​​information technology.
+- 🤔 Procuro ajuda para minha primeira oportunidade na área da tecnologia da informação.
   
-- 💬 Ask me about how to prevent bugs in a system.
+- 💬 Pergunte-me sobre como evitar bugs em um sistema.
   
-- 📫 How to contact me:
+- 📫 Como entrar em contato comigo:
   
-Mobile: +5588988840322
-email: lw.saturnino@gmail.com
+Celular: +5588988840322
+e-mail: lw.saturnino@gmail.com
 linkedin: https://www.linkedin.com/in/lw-saturnino/
 
-- ⚡ Fun fact: I also have a degree in construction technology.
+- ⚡ Curiosidade: também sou formado em tecnologia da construção civil.
