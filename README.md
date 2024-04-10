@@ -16,8 +16,8 @@
   
 - 📫 Como entrar em contato comigo:
   
-Celular: +5588988840322
-e-mail: lw.saturnino@gmail.com
-linkedin: https://www.linkedin.com/in/lw-saturnino/
+  Celular: +5588988840322
+  e-mail: lw.saturnino@gmail.com
+  linkedin: https://www.linkedin.com/in/lw-saturnino/
 
 - ⚡ Curiosidade: também sou formado em tecnologia da construção civil e Topografia.
