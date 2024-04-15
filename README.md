@@ -8,7 +8,7 @@
   
 - 👯 Busco colaborar em Casos de Testes, Testes Manuais, Relatorios de Testes e Metodologias Ágeis.
   
-- 🤔 Procuro ajuda para minha primeira oportunidade na área da tecnologia da informação.
+- 🤔 Procuro contribuir para o desenvolvimento de novas tecnologias.
   
 - 💬 Pergunte-me sobre como testar um sistema.
   
