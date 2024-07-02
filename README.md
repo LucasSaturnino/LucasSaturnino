@@ -4,7 +4,7 @@
   
   Atuei como topografo por quase seis anos, projetando áreas em plantas topográficas diversas (desmembramento, desdobro, parcelamento do solo, terraplanagem, drenagem pluvial e outras) e prospectei para buscar áreas de interesse para arrendamento, localizar proprietários, negociar, fazer registros de contratos no cartório. Por último, atuei no ramo da construção para expandir a produção de sabão, atuando como tecnólogo da construção civil, encarregado de orientar, fiscalizar, conferir, coordenar e planejar, com o objetivo de otimizar o uso dos materiais e garantir a segurança.
 
-- 🔭 Atualmente estou em transição de carreira para analista de testes.
+- 🔭 Atualmente estou cursando analise e desenvolvimento de sistemas.
   
 - 👯 Busco colaborar em Casos de Testes, Testes Manuais, Relatorios de Testes e Metodologias Ágeis.
   
