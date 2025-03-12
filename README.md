@@ -6,9 +6,9 @@
 
 - 🔭 Atualmente estou cursando analise e desenvolvimento de sistemas.
   
-- 👯 Busco colaborar em Casos de Testes, Testes Manuais, Relatorios de Testes e Metodologias Ágeis.
+- 👯 Busco colaborar no desenvolvimento de novas tecnologias que ajudam na iteração humano e computador.
   
-- 🤔 Procuro contribuir para o desenvolvimento de novas tecnologias.
+- 🤔 Procuro adquirir novas experiências e conhecimento.
   
 - 💬 Pergunte-me sobre como testar um sistema.
   
