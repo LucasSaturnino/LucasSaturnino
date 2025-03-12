@@ -10,7 +10,7 @@
   
 - 🤔 Procuro adquirir novas experiências e conhecimento.
   
-- 💬 Pergunte-me sobre como testar um sistema.
+- 💬 Pergunte-me sobre como testar e desenvolver um sistema.
   
 - 📫 Como entrar em contato comigo:
   
