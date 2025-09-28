@@ -1,16 +1,15 @@
 - Sobre
 
-  Sou estudante de Análise e desenvolvimento de sistemas e tenho o curso de Analista de Testes da Tripleten. Possuo habilidades com Testes manuais, API, HTML5, HTPP, Swagger, Jira, Casos de testes, Checklist e outros. Já conclui cadeiras como Paradigma da computação em Python, Desenvolvimento web com HTML5, CSS, PHP e JavaScript, Segurança da Informação, Pensamento computacional e Arquitetura da computação.
-  
-  Atuei como topografo por quase seis anos, projetando áreas em plantas topográficas diversas (desmembramento, desdobro, parcelamento do solo, terraplanagem, drenagem pluvial e outras) e prospectei para buscar áreas de interesse para arrendamento, localizar proprietários, negociar, fazer registros de contratos no cartório. Por último, atuei no ramo da construção para expandir a produção de sabão, atuando como tecnólogo da construção civil, encarregado de orientar, fiscalizar, conferir, coordenar e planejar, com o objetivo de otimizar o uso dos materiais e garantir a segurança.
+Estou prestes a concluir o curso de Análise e desenvolvimento de sistemas, e pretendo continuar a estudar com o MBA em Ciência de Dados, com o objetivo de aprimorar os conhecimentos específicos. Já adquirir conhecimentos de programação (python, SQL, Javascript, Java e outros), além de conhecimento de testes de software (testes manual, regressão, caso de testes, API, Swager, e  outros). Tenho habilidades que advêm de experiências profissionais anteriores (trabalho em grupo, comunicação, pensamento crítico e resolução de problemas) Atuei por vários anos em sala técnica, desenvolvendo projetos topográficos para diversos fins, lidando com pessoas de diferentes classes sociais para atender aos requisitos de projetos propostos, trabalhando aspectos relacionados à comunicação e resolução de problemas. Além disso, atuei em campo no setor fundiário, onde aprendi a negociar com pessoas para convencê-las a participar de contratos de energias renováveis, além de trabalhar com outros aspectos da comunicação e persuasão. Também atuei na Construção Civil, onde aprendi a liderar equipes, além de aprimorar técnicas de campo da profissão.
+
 
 - 🔭 Atualmente estou cursando analise e desenvolvimento de sistemas.
   
-- 👯 Busco colaborar no desenvolvimento de novas tecnologias que ajudam na iteração humano e computador.
+- 👯 Busco colaborar na criação de sistemas que aprendem com dados e fazem previsões ou tomam decisões. 
   
 - 🤔 Procuro adquirir novas experiências e conhecimento.
   
-- 💬 Pergunte-me sobre como testar e desenvolver um sistema.
+- 💬 Pergunte-me sobre Analise e desenvolvimento de sistemas.
   
 - 📫 Como entrar em contato comigo:
   
